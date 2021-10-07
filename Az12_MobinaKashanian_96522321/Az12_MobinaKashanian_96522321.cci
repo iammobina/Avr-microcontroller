@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:50F298F1
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavr\inc\glcd.h"
+NODE:I LEVEL:0 LINE:31 "C:\cvavr\inc\font5x7.h"
+NODE:V LEVEL:0 LINE:34 "p -> R4,R5"
+NODE:V LEVEL:0 LINE:35 "q -> R6,R7"
+NODE:V LEVEL:0 LINE:36 "x_coor -> R8,R9"
+NODE:V LEVEL:0 LINE:37 "y_coor -> R10,R11"
+NODE:V LEVEL:0 LINE:38 "move -> R12,R13"
+NODE:V LEVEL:0 LINE:39 "gradient -> RAM:????"
+NODE:F LEVEL:0 LINE:40 "main(void)"

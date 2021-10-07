@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:50FD51B1
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:3 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:5 "minute -> R5"
+NODE:V LEVEL:0 LINE:6 "hour -> R4"
+NODE:V LEVEL:0 LINE:7 "sec -> R7"
+NODE:C LEVEL:0 LINE:10 "display -> FLASH"
+NODE:V LEVEL:0 LINE:11 "led_counter -> R6"
+NODE:F LEVEL:0 LINE:13 "convert_to_hex(int n)"
+NODE:F LEVEL:0 LINE:39 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:61 "main(void)"
