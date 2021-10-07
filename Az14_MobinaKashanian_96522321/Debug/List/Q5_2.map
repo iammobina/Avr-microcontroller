@@ -1,0 +1,42 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+sentences                                                                         0x0260      41
+_seed                                                                             0x0289       4
+_base_y                                                                           0x028D       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+index                                                                             R4,R5        2
+_lcd_x                                                                            R7           1
+_lcd_y                                                                            R6           1
+_lcd_maxx                                                                         R9           1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+Sending                                                                           0x00069     10
+Receiving                                                                         0x00073      4
+next                                                                              0x00077      6
+get                                                                               0x0007D     13
+calculate                                                                         0x0008A    109
+coficient                                                                         0x000F7     38
+member                                                                            0x0011D     31
+regex                                                                             0x0013C     31
+main                                                                              0x0015B    143
+ftoa                                                                              0x001EA    203
+strcpyf                                                                           0x002B5     13
+strlen                                                                            0x002C2     12
+_lcd_write_nibble_G102                                                            0x002CE     20
+_lcd_write_data                                                                   0x002E2     12
+lcd_gotoxy                                                                        0x002EE     13
+lcd_clear                                                                         0x002FB     12
+lcd_putchar                                                                       0x00307     20
+lcd_init                                                                          0x0031B     46
+ftrunc                                                                            0x00349     49
+floor                                                                             0x0037A     19

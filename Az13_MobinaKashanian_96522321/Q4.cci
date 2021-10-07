@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:518F8CE2
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:28 "C:\cvavr\inc\alcd.h"
+NODE:V LEVEL:0 LINE:29 "counter -> R4,R5"
+NODE:V LEVEL:0 LINE:30 "st -> RAM:????"
+NODE:V LEVEL:0 LINE:32 "morseCode -> RAM:????"
+NODE:V LEVEL:0 LINE:38 "alpha -> RAM:????"
+NODE:F LEVEL:0 LINE:42 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:47 "T1Delay(void)"
+NODE:F LEVEL:0 LINE:58 "main(void)"

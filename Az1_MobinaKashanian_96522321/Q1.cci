@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:518FA5D0
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega32.h"
+NODE:F LEVEL:0 LINE:29 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:36 "timer0_comp_isr(void)"
+NODE:F LEVEL:0 LINE:57 "timer1_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:64 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:69 "Timer1over(void)"
+NODE:F LEVEL:0 LINE:82 "Timer0over(void)"
+NODE:F LEVEL:0 LINE:93 "main(void)"

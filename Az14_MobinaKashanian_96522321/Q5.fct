@@ -1,0 +1,6 @@
+main DSTACK_USAGE:53 DSTACK_LEVEL:53 FILE:"Q5.c" LINE:27
+lcd_puts DSTACK_USAGE:3 DSTACK_LEVEL:56 FILE:"C:\cvavr\lib\alcd.lib" LINE:279
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:57 FILE:"C:\cvavr\lib\alcd.lib" LINE:265
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:59 FILE:"C:\cvavr\lib\alcd.lib" LINE:247
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:60 FILE:"C:\cvavr\lib\alcd.lib" LINE:161
+_lcd_write_nibble DSTACK_USAGE:1 DSTACK_LEVEL:61 FILE:"C:\cvavr\lib\alcd.lib" LINE:139

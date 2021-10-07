@@ -1,0 +1,53 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+sec                                                                               R5           1
+minute                                                                            R4           1
+hour                                                                              R7           1
+tenth                                                                             R6           1
+day                                                                               R9           1
+month                                                                             R8           1
+year                                                                              R11          1
+control_menu                                                                      R10          1
+left_menu                                                                         R13          1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+delay                                                                             0x00069     10
+keypad_scan                                                                       0x00073     81
+convert_to_hex                                                                    0x000C4     73
+ext_int0_isr                                                                      0x0010D      1
+timer0_comp_isr                                                                   0x0010E      1
+timer1_compa_isr                                                                  0x0010F     39
+main                                                                              0x00136    757
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+delay                                                                             0x00069     10
+keypad_scan                                                                       0x00073     81
+convert_to_hex                                                                    0x000C4     73
+ext_int0_isr                                                                      0x0010D      1
+timer0_comp_isr                                                                   0x0010E      1
+timer1_compa_isr                                                                  0x0010F     39
+main                                                                              0x00136    757
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+delay                                                                             0x00069     10
+keypad_scan                                                                       0x00073     81
+convert_to_hex                                                                    0x000C4     73
+ext_int0_isr                                                                      0x0010D      1
+timer0_comp_isr                                                                   0x0010E      1
+timer1_compa_isr                                                                  0x0010F     39
+main                                                                              0x00136    757

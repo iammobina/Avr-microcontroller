@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:5199B3E1
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:5 "i -> R4,R5"
+NODE:V LEVEL:0 LINE:6 "speed -> R6,R7"
+NODE:V LEVEL:0 LINE:6 "rot -> R8,R9"
+NODE:V LEVEL:0 LINE:6 "left -> R10,R11"
+NODE:V LEVEL:0 LINE:6 "right -> R12,R13"
+NODE:V LEVEL:0 LINE:6 "stop -> RAM:????"
+NODE:F LEVEL:0 LINE:7 "setup_t(void)"
+NODE:F LEVEL:0 LINE:19 "speed_handler(void)"
+NODE:F LEVEL:0 LINE:33 "main(void)"

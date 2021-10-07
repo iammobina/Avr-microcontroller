@@ -1,0 +1,24 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+stop                                                                              0x0260       2
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+i                                                                                 R4,R5        2
+speed                                                                             R6,R7        2
+rot                                                                               R8,R9        2
+left                                                                              R10,R11      2
+right                                                                             R12,R13      2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+setup_t                                                                           0x0004F     25
+speed_handler                                                                     0x00068     57
+main                                                                              0x000A1    158
